@@ -1,0 +1,16 @@
+.none {
+    display: none !important;
+    }
+
+#root {
+    text-align: center;
+    padding-top: 15%;
+    }
+
+#shortLinkPreview {
+    padding-top: 8px;
+    }
+
+form label ~ label {
+    margin-left: 16px;
+    }
